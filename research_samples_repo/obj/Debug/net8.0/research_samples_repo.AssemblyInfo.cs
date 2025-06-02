@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("research_samples_repo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ce2b06e4107e0e741c74c589d79de511fcd9452")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97a513ff50cb2741ed711b873b2dae650e46f298")]
 [assembly: System.Reflection.AssemblyProductAttribute("research_samples_repo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("research_samples_repo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
