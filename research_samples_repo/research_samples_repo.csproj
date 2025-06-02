@@ -11,7 +11,7 @@
     <Folder Include="LLM_Generated\" />
     <Folder Include="Roslyn_Blind\" />
     <Folder Include="Roslyn_Detectable\" />
-	<Compile Include="Self_Authored\" />
+	<Folder Include="Self_Authored\" />
   </ItemGroup>
 
 </Project>
