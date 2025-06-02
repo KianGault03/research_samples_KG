@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace research_samples_repo.Self_Authored
 {
-    class sample_3
+    public class sample_3
     {
         static List<int> sharedList = new List<int>();
 

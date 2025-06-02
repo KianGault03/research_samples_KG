@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\kiang\\OneDrive - Edinburgh Napier University\\Napier_4th_Year\\Honours_Project\\Research\\research_samples_repo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD568036-C420-401F-964A-6F5B86EF6C66}|research_samples_repo\\research_samples_repo.csproj|c:\\users\\kiang\\onedrive - edinburgh napier university\\napier_4th_year\\honours_project\\research\\research_samples_repo\\research_samples_repo\\self_authored\\sample_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD568036-C420-401F-964A-6F5B86EF6C66}|research_samples_repo\\research_samples_repo.csproj|solutionrelative:research_samples_repo\\self_authored\\sample_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AEB01EF-A1B4-4A33-9172-8BC3FB40D2B0}|TestingPlatformForSamples\\TestingPlatformForSamples.csproj|c:\\users\\kiang\\onedrive - edinburgh napier university\\napier_4th_year\\honours_project\\research\\research_samples_repo\\testingplatformforsamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEB01EF-A1B4-4A33-9172-8BC3FB40D2B0}|TestingPlatformForSamples\\TestingPlatformForSamples.csproj|solutionrelative:testingplatformforsamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD568036-C420-401F-964A-6F5B86EF6C66}|research_samples_repo\\research_samples_repo.csproj|c:\\users\\kiang\\onedrive - edinburgh napier university\\napier_4th_year\\honours_project\\research\\research_samples_repo\\research_samples_repo\\research_samples_repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD568036-C420-401F-964A-6F5B86EF6C66}|research_samples_repo\\research_samples_repo.csproj|solutionrelative:research_samples_repo\\research_samples_repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 494,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "research_samples_repo",
+              "DocumentMoniker": "C:\\Users\\kiang\\OneDrive - Edinburgh Napier University\\Napier_4th_Year\\Honours_Project\\Research\\research_samples_repo\\research_samples_repo\\research_samples_repo.csproj",
+              "RelativeDocumentMoniker": "research_samples_repo\\research_samples_repo.csproj",
+              "ToolTip": "C:\\Users\\kiang\\OneDrive - Edinburgh Napier University\\Napier_4th_Year\\Honours_Project\\Research\\research_samples_repo\\research_samples_repo\\research_samples_repo.csproj",
+              "RelativeToolTip": "research_samples_repo\\research_samples_repo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T10:19:09.536Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b56f5db8-6b8a-49f5-90d5-2c0d44b6d4a4}"
@@ -27,14 +44,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "sample_1.cs",
-              "DocumentMoniker": "C:\\Users\\kiang\\OneDrive - Edinburgh Napier University\\Napier_4th_Year\\Honours_Project\\Research\\research_samples_repo\\research_samples_repo\\Self_Authored\\sample_1.cs",
-              "RelativeDocumentMoniker": "research_samples_repo\\Self_Authored\\sample_1.cs",
-              "ToolTip": "C:\\Users\\kiang\\OneDrive - Edinburgh Napier University\\Napier_4th_Year\\Honours_Project\\Research\\research_samples_repo\\research_samples_repo\\Self_Authored\\sample_1.cs",
-              "RelativeToolTip": "research_samples_repo\\Self_Authored\\sample_1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kiang\\OneDrive - Edinburgh Napier University\\Napier_4th_Year\\Honours_Project\\Research\\research_samples_repo\\TestingPlatformForSamples\\Program.cs",
+              "RelativeDocumentMoniker": "TestingPlatformForSamples\\Program.cs",
+              "ToolTip": "C:\\Users\\kiang\\OneDrive - Edinburgh Napier University\\Napier_4th_Year\\Honours_Project\\Research\\research_samples_repo\\TestingPlatformForSamples\\Program.cs",
+              "RelativeToolTip": "TestingPlatformForSamples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T09:49:32.482Z",
+              "WhenOpened": "2025-06-02T10:19:17.797Z",
               "EditorCaption": ""
             }
           ]

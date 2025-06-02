@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36119.2 d17.14
+VisualStudioVersion = 17.14.36119.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "research_samples_repo", "research_samples_repo\research_samples_repo.csproj", "{AD568036-C420-401F-964A-6F5B86EF6C66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingPlatformForSamples", "TestingPlatformForSamples\TestingPlatformForSamples.csproj", "{2AEB01EF-A1B4-4A33-9172-8BC3FB40D2B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{AD568036-C420-401F-964A-6F5B86EF6C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD568036-C420-401F-964A-6F5B86EF6C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD568036-C420-401F-964A-6F5B86EF6C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AEB01EF-A1B4-4A33-9172-8BC3FB40D2B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AEB01EF-A1B4-4A33-9172-8BC3FB40D2B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AEB01EF-A1B4-4A33-9172-8BC3FB40D2B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AEB01EF-A1B4-4A33-9172-8BC3FB40D2B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
