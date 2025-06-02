@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\kiang\\OneDrive - Edinburgh Napier University\\Napier_4th_Year\\Honours_Project\\Research\\research_samples_repo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AD568036-C420-401F-964A-6F5B86EF6C66}|research_samples_repo\\research_samples_repo.csproj|c:\\users\\kiang\\onedrive - edinburgh napier university\\napier_4th_year\\honours_project\\research\\research_samples_repo\\research_samples_repo\\self_authored\\sample_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD568036-C420-401F-964A-6F5B86EF6C66}|research_samples_repo\\research_samples_repo.csproj|solutionrelative:research_samples_repo\\self_authored\\sample_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD568036-C420-401F-964A-6F5B86EF6C66}|research_samples_repo\\research_samples_repo.csproj|c:\\users\\kiang\\onedrive - edinburgh napier university\\napier_4th_year\\honours_project\\research\\research_samples_repo\\research_samples_repo\\self_authored\\sample_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD568036-C420-401F-964A-6F5B86EF6C66}|research_samples_repo\\research_samples_repo.csproj|solutionrelative:research_samples_repo\\self_authored\\sample_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AD568036-C420-401F-964A-6F5B86EF6C66}|research_samples_repo\\research_samples_repo.csproj|c:\\users\\kiang\\onedrive - edinburgh napier university\\napier_4th_year\\honours_project\\research\\research_samples_repo\\research_samples_repo\\self_authored\\sample_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD568036-C420-401F-964A-6F5B86EF6C66}|research_samples_repo\\research_samples_repo.csproj|solutionrelative:research_samples_repo\\self_authored\\sample_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "sample_3.cs",
+              "DocumentMoniker": "C:\\Users\\kiang\\OneDrive - Edinburgh Napier University\\Napier_4th_Year\\Honours_Project\\Research\\research_samples_repo\\research_samples_repo\\Self_Authored\\sample_3.cs",
+              "RelativeDocumentMoniker": "research_samples_repo\\Self_Authored\\sample_3.cs",
+              "ToolTip": "C:\\Users\\kiang\\OneDrive - Edinburgh Napier University\\Napier_4th_Year\\Honours_Project\\Research\\research_samples_repo\\research_samples_repo\\Self_Authored\\sample_3.cs",
+              "RelativeToolTip": "research_samples_repo\\Self_Authored\\sample_3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:56:32.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sample_2.cs",
+              "DocumentMoniker": "C:\\Users\\kiang\\OneDrive - Edinburgh Napier University\\Napier_4th_Year\\Honours_Project\\Research\\research_samples_repo\\research_samples_repo\\Self_Authored\\sample_2.cs",
+              "RelativeDocumentMoniker": "research_samples_repo\\Self_Authored\\sample_2.cs",
+              "ToolTip": "C:\\Users\\kiang\\OneDrive - Edinburgh Napier University\\Napier_4th_Year\\Honours_Project\\Research\\research_samples_repo\\research_samples_repo\\Self_Authored\\sample_2.cs",
+              "RelativeToolTip": "research_samples_repo\\Self_Authored\\sample_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:56:20.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "sample_1.cs",
               "DocumentMoniker": "C:\\Users\\kiang\\OneDrive - Edinburgh Napier University\\Napier_4th_Year\\Honours_Project\\Research\\research_samples_repo\\research_samples_repo\\Self_Authored\\sample_1.cs",
               "RelativeDocumentMoniker": "research_samples_repo\\Self_Authored\\sample_1.cs",
