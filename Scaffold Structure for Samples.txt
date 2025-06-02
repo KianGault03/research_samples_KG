@@ -1,0 +1,15 @@
+Scaffold Structure for Samples
+
+using System;
+
+namespace research_samples_repo.[folder_name]
+{
+    class sample_[number]
+    {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Sample Analyzer Console App");
+            Console.WriteLine("Each .cs file in the 'Samples/' folder can be independently analyzed.");
+        }
+    }
+}
