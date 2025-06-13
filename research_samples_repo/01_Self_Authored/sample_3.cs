@@ -1,4 +1,9 @@
-﻿using System;
+﻿// Author:              Kian Gault
+// Source:              Dissertation Evaluation Sample
+// Description:         A program created that contains no compiler errors or 
+//                      warnings, but has a potential thread safety issues. 
+// ============================================================================
+using System;
 using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;

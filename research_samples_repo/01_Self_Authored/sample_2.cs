@@ -1,4 +1,9 @@
-﻿using System;
+﻿// Author:              Kian Gault
+// Source:              Dissertation Evaluation Sample
+// Description:         A simple C# program that checks the length of a string with
+//                      intentional syntax errors for evaluation purposes
+// ============================================================================
+using System;
 
 namespace research_samples_repo.Self_Authored
 {

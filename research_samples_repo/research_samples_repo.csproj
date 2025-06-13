@@ -8,10 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="LLM_Generated\" />
-    <Folder Include="Roslyn_Blind\" />
-    <Folder Include="Roslyn_Detectable\" />
-	<Folder Include="Self_Authored\" />
+	<Folder Include="01_Self_Authored\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Office.Interop.Excel" Version="15.0.4795.1001" />
+    <PackageReference Include="MiNET" Version="1.0.2304" />
   </ItemGroup>
 
 </Project>
